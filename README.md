@@ -1,6 +1,6 @@
 # node_3 :taco:
 
-TODO: Enter the cookbook description here.
+This is a cookbook for Nodejs and Nginx
 
 # Chef
 
